@@ -2,7 +2,7 @@
 A command-line application which manages a company's employee database, using Node.js, Inquirer, and MySQL.
 
   ## Screenshot
-  ![Screenshot](./img/busybeesnap.PNG)
+  ![Screenshot](./img/busybeescreen.PNG)
 
   ## Links to video
   [![Watch the video](https://youtu.be/Aqosu3cFaKM)](https://youtu.be/Aqosu3cFaKM)

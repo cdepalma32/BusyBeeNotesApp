@@ -1,7 +1,12 @@
 [
     {
-        "title": "doctor",
-        "text": "10:am",
-        "id": "5bca2072-b1de-4a6c-af00-1c717d181701"
+        "title": "groceries",
+        "text": "2pm trader joe's & lunch with Mom",
+        "id": "8a64097c-1810-4eeb-b73e-7fa6a6e19404"
+    },
+    {
+        "title": "Oakland doc visit",
+        "text": "Friday 3pm",
+        "id": "cbb05c07-5e5c-4a29-9320-37f21859847e"
     }
 ]
